@@ -1,0 +1,26 @@
+{
+  "name": "AI Stock Predictor",
+  "displayName": "AI Stock Predictor",
+  "version": "1.0.0",
+  "description": "Real-time Indian Stock Market Analysis & AI Predictions",
+  "author": {
+    "name": "AI Stock Predictor Team",
+    "email": "support@aistockpredictor.com"
+  },
+  "homepage": "https://aistockpredictor.com",
+  "keywords": ["stocks", "ai", "prediction", "indian market", "nse", "bse"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ai-stock-predictor"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/ai-stock-predictor/issues"
+  },
+  "capacitor": {
+    "appId": "com.aistockpredictor.app",
+    "appName": "AI Stock Predictor",
+    "bundledWebRuntime": false,
+    "webDir": "out"
+  }
+}
